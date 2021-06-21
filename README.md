@@ -14,3 +14,5 @@ The public folder is what is mounted by the app and displayed on the front-end. 
 
 ## 'server' Directory
 The server folder holds a pre-built API client for using the GraphQL Admin API as well as templates for storing your API queries, API mutations and Koa routes.
+
+[@TotallyTwisted](https://twisted-gifts.com "@TotallyTwisted")
